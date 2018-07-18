@@ -1,0 +1,17 @@
+$redLight: #FF0000;
+$redDark: #B20000;
+$greenNeon: #92CF48;
+$greyLight: #F4F6F9;
+$greyDark: #A9A9A9;
+$greyLight2: #BBC1CD;
+$greyDark2: #6C7882;
+$orange: #F48320;
+$purple: #744BCE;
+
+//Grid System
+$grid-columns: 12;
+$grid-max-width: 1200px;
+$breakpoint-small: "only screen and (min-width: 0px)";
+$breakpoint-medium: "only screen and (min-width: 760px)";
+$breakpoint-large: "only screen and (min-width: 1000px)";
+$breakpoint-xl: "only screen and (min-width: 1300px)";
